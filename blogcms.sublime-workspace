@@ -1,0 +1,512 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"qu",
+				"queryresult"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backr",
+				"background-image"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"age",
+				"ageerror"
+			],
+			[
+				"email",
+				"emailerror"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"sub",
+				"Subscribe"
+			],
+			[
+				"mysql_con",
+				"mysql_connect"
+			],
+			[
+				"input",
+				"inputsub"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ME",
+				"messages"
+			],
+			[
+				"m",
+				"messages"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"p",
+				"psol"
+			],
+			[
+				"po",
+				"possiblePositions"
+			],
+			[
+				"web",
+				"WebService"
+			],
+			[
+				"slic",
+				"sliceTest"
+			],
+			[
+				"sli",
+				"sliceTest"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"pos",
+				"possiblePositions"
+			],
+			[
+				"possibleP",
+				"possiblePositions"
+			],
+			[
+				"psol",
+				"psol"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/go.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Insert HTML Link "
+			],
+			[
+				"",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"stop",
+			"exit()",
+			"exit",
+			"stop",
+			"print(\"helo\")",
+			"print \"help\"",
+			"%FileDir",
+			"$FileName",
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/itsactuallyme/login.php",
+		"/C/xampp/htdocs/itsactuallyme/php/loginUser.php",
+		"/C/xampp/htdocs/itsactuallyme/profile.php",
+		"/C/xampp/htdocs/itsactuallyme/css/profile.css",
+		"/C/xampp/htdocs/itsactuallyme/php/registerUser.php",
+		"/C/xampp/htdocs/itsactuallyme/register.php",
+		"/F/Let.the.Right.One.In.2008.1080p.BluRay.x264.anoXmous/Let.the.Right.One.In.2008.1080p.BluRay.x264.anoXmous_.mp4",
+		"/C/xampp/htdocs/itsactuallyme/css/resgister.css",
+		"/C/xampp/htdocs/itsactuallyme/loginUser.php",
+		"/C/xampp/htdocs/itsactuallyme/index.php",
+		"/C/xampp/htdocs/ratemystartup/startup.php",
+		"/C/xampp/htdocs/ratemystartup/addstartup.php",
+		"/C/xampp/htdocs/ratemystartup/css/index.css",
+		"/C/xampp/htdocs/ratemystartup/index.php",
+		"/C/xampp/htdocs/itsactuallyme/css/index.css",
+		"/C/xampp/htdocs/itsactuallyme/css/bootstrap.css",
+		"/C/xampp/htdocs/php/subscribe.php",
+		"/C/xampp/htdocs/css/index.css",
+		"/C/xampp/htdocs/css/chimpmail.css",
+		"/C/xampp/htdocs/composer.json",
+		"/C/xampp/htdocs/thankyou.php",
+		"/C/Users/Chris/Desktop/Websites/bootstrap-3.0.3/examples/starter-template/index.html",
+		"/C/xampp/htdocs/css/thankyou.css",
+		"/C/xampp/htdocs/css/bootstrap.css",
+		"/C/xampp/htdocs/js/bootstrap.min.js",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/mail.php",
+		"/C/Users/Chris/Desktop/Websites/Elderly Browsing/index.html",
+		"/C/Users/Chris/Desktop/Websites/Elderly Browsing/examples/starter-template/starter-template.css",
+		"/C/Users/Chris/Desktop/Websites/Elderly Browsing/examples/starter-template/index.html",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/js/contact.js",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/index.html",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/page_template.html",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/htmllink.sublime-snippet",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/Services.html",
+		"/C/Users/Chris/Desktop/Websites/askchrisconsulting.dev/wp-content/themes/bizway/contact-form.php",
+		"/C/Users/Chris/Desktop/Websites/www.askchrisprogress.dev/Contacts.html",
+		"/C/Users/Chris/Desktop/Websites/progressaskchris/js/jcarousellite.js",
+		"/C/Users/Chris/Desktop/Websites/progressaskchris/js/PIE.htc",
+		"/C/Users/Chris/Desktop/Websites/progressaskchris/js/PIE.php",
+		"/C/xampplite/mysql/data/askchrisdblqraz/wp_options.MYD",
+		"/C/Users/Chris/Desktop/Websites/askchrisconsulting.dev/wp-content/themes/bizway/style.css",
+		"/C/Users/Chris/Desktop/Websites/askchrisconsulting.dev/wp-content/themes/bizway/mail.php",
+		"/C/Users/Chris/Desktop/Websites/askchrisconsulting.dev/wp-content/themes/bizway/footer.php",
+		"/C/Users/Chris/Desktop/AskChrisConsulting/wp-content/themes/bizway/css/contact.css",
+		"/C/Users/Chris/Downloads/PHP Contact Forms/Demo_Blue_Form/blue_form.htm",
+		"/C/Users/Chris/Downloads/PHP Contact Forms/Complete Tutorial Example/mail.php",
+		"/C/Users/Chris/Downloads/PHP Contact Forms/Complete Tutorial Example/form.html",
+		"/C/Users/Chris/Desktop/Java/spring/pom.xml",
+		"/C/Users/Chris/Desktop/AskChrisConsulting/wp-content/themes/index.php",
+		"/C/Users/Chris/Desktop/AskChrisConsulting/index.php",
+		"/C/Users/Chris/Desktop/Android/workspace/Picture Puzzle/picturepuzzle/project.properties",
+		"/C/Users/Chris/Desktop/Android/workspace/Picture Puzzle/picturepuzzle/.project",
+		"/C/Users/Chris/Desktop/Android/workspace/Picture Puzzle/picturepuzzle/.classpath",
+		"/C/Users/Chris/Programming/go/src/git/tempus/webchat/webchat.go",
+		"/C/Program Files (x86)/realtech VR/OpenGL Extensions Viewer 3.0/shaderGLSL30.v3s",
+		"/C/Users/Chris/Desktop/JGameDev/workspace/geneticalgorithm/LICENSE",
+		"/C/Users/Chris/Programming/go/src/git/tempus/webchat/testpage.html",
+		"/G/[Hentai] Angel Blade [1-6] [English] [UNCENSORED]/Torrent downloaded from hqpdb.com.nfo",
+		"/C/Users/Chris/Programming/go/src/git/tempus/webchat/test/testPage.html",
+		"/C/Users/Chris/Programming/go/src/git/tempus/webchat/testPage.html",
+		"/C/Users/Chris/Programming/go/src/git/tempus/webserver/webtest.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/readme.txt",
+		"/C/Users/Chris/Programming/go/src/git/tempus/8queens/8queens.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/misc/misc.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/newmath/sqrt.go",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/go.sublime-build",
+		"/C/Users/Chris/Programming/go/src/git/tempus/8queens/8queen.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/hello/hello.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/newmath/sqrt_test.go",
+		"/C/Users/Chris/Programming/go/src/git/tempus/.git/refs/remotes/origin/master",
+		"/C/Users/Chris/Programming/go/src/git/tempus/hello.go",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/Go.sublime-settings",
+		"/C/Users/Chris/Desktop/BitmapArial/arial.fnt",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/projects.html",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/docs/assets/css/bootstrap.css",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/articles/articleT.html",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/css/projects.css",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/articles/article_android_picture_puzzle.html",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/articles/article_camera_control.html",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/docs/assets/css/bootstrap-responsive.css",
+		"/G/Portfolio/chriss-portfolio-site/Bootstrap/docs/base-css.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\vendor",
+			"C:\\Users\\Chris\\Desktop\\Websites\\askchrisconsulting.dev\\",
+			"C:\\Users\\Chris\\Desktop\\Websites\\askchrisconsulting.dev\\wp-content\\themes\\wp-opulus",
+			"C:\\Users\\Chris\\Desktop\\AskChrisConsulting\\wp-content\\themes\\bizway",
+			"C:\\Users\\Chris\\Desktop\\AskChrisConsulting"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"..",
+			"listSubscribe",
+			"subscribe",
+			"set",
+			"col-md",
+			"col",
+			"a(docu",
+			"ui",
+			"askchris@askchrisconsulting.com.au",
+			"widget_calender",
+			"wp-calendar",
+			"first-item",
+			"get_footer()",
+			"get_header()",
+			"function get_header(){",
+			"function get_header()",
+			"function get_header",
+			"Contact Details",
+			"Contact",
+			"Fprintf",
+			"dayTitle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blogcms.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
