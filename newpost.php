@@ -42,12 +42,11 @@
       </div>
 
       <div class="input-group">
-        <textarea id="pageconent" rows="10" cols="45"></textarea>
+        <textarea id="pagecontent" rows="10" cols="45"></textarea>
         <button onclick="save();">Save</button>
       </div>
 
       <a id="link" target="_blank" href="#"></a>
-      
 
     </div><!-- /.container -->
 

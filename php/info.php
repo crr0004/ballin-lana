@@ -23,4 +23,22 @@ function getNavBar(){
     </div>';
 }
 
+function getPost($get){
+   $openDefault = false;
+  if(isset($get["name"])){
+    $fileContents = file_get_contents("json/" . htmlspecialchars($get["name"]) . ".json");
+    if($fileContents != false){
+      $contents = json_decode($fileContents, true);
+    }else{
+      $openDefault = true;
+    }
+  }else{
+    $openDefault = true;
+  }
+
+  if($openDefault){
+    $contents = json_decode(file_get_contents("json/default.json"), true);
+  }
+  return $contents;
+}
 ?>

@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 
-<?php include 'php/info.php' ?>
+<?php
+ include 'php/info.php';
+ ?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -9,7 +11,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Developer Breakdown</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -30,11 +32,7 @@
   <body>
 
   <?php
-  if($_GET["name"] != ""){
-    $contents = json_decode(file_get_contents("json/" . htmlspecialchars($_GET["name"]) . ".json"), true);
-  }
-  $blog = $contents["Blog"];
-
+  $blog = getPost($_GET)['Blog'];
   ?>
 
     <?php echo getNavBar(); ?>
