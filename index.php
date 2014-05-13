@@ -2,6 +2,7 @@
 
 <?php
  include 'php/info.php';
+ echo $_SERVER['DOCUMENT_ROOT'];
  ?>
 <html lang="en">
   <head>

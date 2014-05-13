@@ -1,0 +1,11 @@
+<Files ~ "^.*\.(json)$">
+order allow,deny
+deny from all
+satisfy all
+</Files>
+
+#AuthName "Restricted Area" 
+#AuthType Basic 
+#AuthUserFile ../.htpasswd
+#AuthGroupFile /dev/null 
+#require valid-user
