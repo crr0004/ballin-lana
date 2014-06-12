@@ -240,10 +240,10 @@
 			}
 		},
 		{
-			"file": "/C/xampp/htdocs/.htpasswd",
+			"file": ".htaccess",
 			"settings":
 			{
-				"buffer_size": 18,
+				"buffer_size": 196,
 				"line_ending": "Windows"
 			}
 		},
@@ -251,7 +251,7 @@
 			"file": "/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 279,
+				"buffer_size": 277,
 				"line_ending": "Unix"
 			}
 		},
@@ -337,6 +337,8 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/conf.htpasswd",
+		"/C/xampp/apache/.htpasswd",
 		"/C/xampp/htdocs/.htpasswd",
 		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -571,19 +573,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/xampp/htdocs/.htpasswd",
+					"file": ".htaccess",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 196,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								79,
+								79
 							]
 						],
 						"settings":
@@ -603,15 +605,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 279,
+						"buffer_size": 277,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								58,
-								58
+								273,
+								273
 							]
 						],
 						"settings":
