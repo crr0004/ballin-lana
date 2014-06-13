@@ -4,6 +4,7 @@
 <head>
 	<title>Home Page - Developer BreakDown</title>
 	<link href="css/index.css" rel="stylesheet">
+	<link href="css/navbar.css" rel="stylesheet">
 </head>
 
 <body>
@@ -12,9 +13,9 @@
 <div class="navbar">
 	<a href="#home">Developer Breakdown | Chris Rhodes</a>
 	<div>
-		<a href="#home">Home</a>
+		<a href="index.php">Home</a>
 		<a href="#games">Games</a>
-		<a href="#ramblings">Ramblings</a>
+		<a href="post.php">Ramblings</a>
 		<a href="#about">About Me</a>
 	</div>
 </div>

@@ -22,36 +22,6 @@ html {
 		margin: 0 100px 0 100px;
 	}
 
-	.navbar{
-		overflow: hidden;
-		padding: 10px 0 10px 0;
-	}
-
-	.navbar div{
-		padding-top: 5px;
-		float: right;
-		margin-right: 10%;
-	}
-
-	.navbar a{
-		font-size: 26px;
-		color: #F2F2F2;
-		text-decoration: none;
-		float: left;
-		padding-left: 3%;
-	}
-
-	.navbar div a {
-		text-decoration: none;
-		font-size: 20px;
-		padding-right: 2px;
-		padding-left: 2px;
-	}
-
-	.navbar div a:hover{
-		background-color: #61B7CF;
-	}
-
 	.blogcontent {
 		margin: 0 40px 0 40px;
 	}
@@ -94,30 +64,4 @@ html {
 		margin: 0 300px 0 300px;
 	}
 
-	.navbar{
-		overflow: hidden;
-		padding: 10px 0 10px 0;
-	}
-
-
-	.navbar div{
-		padding-top: 5px;
-		float: right;
-		margin-right: 21%;
-	}
-
-	.navbar a{
-		font-size: 26px;
-		color: #F2F2F2;
-		text-decoration: none;
-		float: left;
-		padding-left: 3%;
-	}
-
-	.navbar div a {
-		text-decoration: none;
-		font-size: 20px;
-		padding-right: 2px;
-		padding-left: 2px;
-	}
 }

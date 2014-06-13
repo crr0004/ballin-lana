@@ -1,7 +1,43 @@
-body {
-  padding-top: 50px;
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+
+.entry{
+	width: 61.8%;
+	float:left;
 }
 
-.content {
-  padding: 40px 15px;
+.entrynav{
+	width: 38.2%;
+	float: left;
+}
+
+.entrydateactive{
+	list-style-type: none;
+}
+
+.entrydateactive span{
+
+}
+
+.entrydateactive li{
+	padding-left: 7px;
+}
+
+.entrydate{
+
+}
+
+.entrydate span{
+
+}
+
+.entrydate li{
+	display: none;
+}
+
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+
 }
