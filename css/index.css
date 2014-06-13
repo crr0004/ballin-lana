@@ -1,10 +1,123 @@
-.navbar ul {
-	padding: 0;
-	list-style-type: none;
+html {
+	background-color: #F2F2F2;
 }
 
-.navbar li{
-	float: left;
-	padding-right: 5px;
-	padding-left: 5px;
+.navbar{
+		background-color: #04819E;
+		position: static;
+}
+
+.navbar div a{
+	color: #F2F2F2;
+}
+
+.navbar a:hover{
+	text-decoration: underline;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+	body{
+		margin: 0 100px 0 100px;
+	}
+
+	.navbar{
+		overflow: hidden;
+		padding: 10px 0 10px 0;
+	}
+
+	.navbar div{
+		padding-top: 5px;
+		float: right;
+		margin-right: 10%;
+	}
+
+	.navbar a{
+		font-size: 26px;
+		color: #F2F2F2;
+		text-decoration: none;
+		float: left;
+		padding-left: 3%;
+	}
+
+	.navbar div a {
+		text-decoration: none;
+		font-size: 20px;
+		padding-right: 2px;
+		padding-left: 2px;
+	}
+
+	.navbar div a:hover{
+		background-color: #61B7CF;
+	}
+
+	.blogcontent {
+		margin: 0 40px 0 40px;
+	}
+	.blogcontent div{
+		float: left;
+		width: 33.33%;
+		text-align: center;
+		margin-top: 3.3325%;
+		-webkit-transition: background-color 0.5s, ease-out;
+		transition: background-color 0.5s, ease-out;
+	}
+	.blogcontent img{
+		float: left;
+		width: calc(2px*43);
+		height: calc(3px*43)px;
+	}
+	.blogcontent div:hover{
+		background-color: #60B9CE;
+	}
+	.blogcontent span{
+		float: left;
+	}
+	.blogcontent p{
+		display: inline;
+	}
+	.blogcontent p span:first-child{
+		padding-left: 5px;
+		font-size: 2em;
+
+	}
+	.blogcontent p span:nth-child(2){
+		position: relative;
+		width: 67.5%;
+	}
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+	body{
+		margin: 0 300px 0 300px;
+	}
+
+	.navbar{
+		overflow: hidden;
+		padding: 10px 0 10px 0;
+	}
+
+
+	.navbar div{
+		padding-top: 5px;
+		float: right;
+		margin-right: 21%;
+	}
+
+	.navbar a{
+		font-size: 26px;
+		color: #F2F2F2;
+		text-decoration: none;
+		float: left;
+		padding-left: 3%;
+	}
+
+	.navbar div a {
+		text-decoration: none;
+		font-size: 20px;
+		padding-right: 2px;
+		padding-left: 2px;
+	}
 }

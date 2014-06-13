@@ -10,15 +10,44 @@
 
 <!-- Nav Bar -->
 <div class="navbar">
-	<ul>
-		<li><a href="#home">Home</a></li>
-		<li><a href="#games">Games</a></li>
-		<li><a href="#ramblings">Ramblings</a></li>
-		<li><a href="#about">About Me</a></li>
-	</ul>
+	<a href="#home">Developer Breakdown | Chris Rhodes</a>
+	<div>
+		<a href="#home">Home</a>
+		<a href="#games">Games</a>
+		<a href="#ramblings">Ramblings</a>
+		<a href="#about">About Me</a>
+	</div>
 </div>
 <!-- End Nav bar -->
 
+<!-- Blog entry -->
+<div class="blogcontent">
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+	<div>
+		<img src="http://placekitten.com/g/200/300">
+		<p><span>Blog 1</span><span>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</span></p>
+	</div>
+</div>
+<!-- End Blog Entry -->
 
 </body>
 </html>
