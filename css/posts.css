@@ -1,5 +1,5 @@
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px) {
+@media only screen  and (min-width : 0px) {
 
 .entry{
 	width: 61.8%;
@@ -36,8 +36,4 @@
 }
 
 }
-
-/* Large screens ----------- */
-@media only screen  and (min-width : 1824px) {
-
 }
