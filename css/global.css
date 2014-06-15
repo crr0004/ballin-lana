@@ -1,0 +1,83 @@
+body {
+  background-color: #F2F2F2;
+}
+
+.navbar{
+    background-color: #04819E;
+    position: static;
+}
+
+.navbar div a{
+  color: #F2F2F2;
+}
+
+.navbar a:hover{
+  text-decoration: underline;
+}
+
+@media only screen  and (min-width: 700px) {
+
+  .navbar{
+    overflow: hidden;
+    padding: 10px 0 10px 0;
+  }
+
+  .navbar div{
+    padding-top: 5px;
+    float: right;
+    margin-right: 10%;
+  }
+
+  .navbar a{
+    font-size: 26px;
+    color: #F2F2F2;
+    text-decoration: none;
+    float: left;
+    padding-left: 3%;
+  }
+
+  .navbar div a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 2px;
+    padding-left: 2px;
+  }
+
+  .navbar div a:hover{
+    background-color: #61B7CF;
+  }
+} 
+
+/* Large screens ----------- */
+/* @media only screen  and (min-width : 600px) {
+  body{
+    margin: 0 300px 0 300px;
+  }
+
+  .navbar{
+    overflow: hidden;
+    padding: 10px 0 10px 0;
+  }
+
+
+  .navbar div{
+    padding-top: 5px;
+    float: right;
+    margin-right: 21%;
+  }
+
+  .navbar a{
+    font-size: 26px;
+    color: #F2F2F2;
+    text-decoration: none;
+    float: left;
+    padding-left: 3%;
+  }
+
+  .navbar div a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 2px;
+    padding-left: 2px;
+  }
+} */
