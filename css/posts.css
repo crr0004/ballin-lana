@@ -1,39 +1,96 @@
-/* Desktops and laptops ----------- */
-@media only screen  and (min-width : 0px) {
-
 .entry{
-	width: 61.8%;
+	width: 87.2667%;
 	float:left;
+	margin-top: 10px;
+}
+
+.entrycontent {
+	margin-left: 13.33%;
+	margin-right: 13.33%;
+}
+
+.entry h3{
+	font-size: 65px;
+	text-align: center;
+}
+
+.entry h4{
+	font-size: 40px;
+}
+
+.entry p{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: auto;
+	font-size: 20px;
+}
+
+.intropara{
+	width: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 25px;
+	font-size: 22px !important;
+}
+
+.firstpara{
+
 }
 
 .entrynav{
-	width: 38.2%;
+	width: 12.733%;
+	color: #F2F2F2;
 	float: left;
+	background-color: #A61700;
+	min-height: 100em;
+}
+
+.entrynav span{
+	margin-top: 10px;
+	display: block;
+	font-size: 24px;
+}
+
+.entrynav span:hover{
+	text-decoration: underline;
 }
 
 .entrydateactive{
 	list-style-type: none;
+	margin-bottom: 10px;
+	font-size: 22px;
+	transition: opacity 1s ease-out;
+	opacity: 1;
 }
 
-.entrydateactive span{
+.entrydateactive ul{
 
 }
 
 .entrydateactive li{
 	padding-left: 7px;
+	font-size: 24px;
+}
+
+.entrydateactive li:hover{
+	text-decoration: underline;
 }
 
 .entrydate{
+	margin-bottom: 10px;
 
+	max-height: 0;
+	visibility: hidden;
+	opacity: 0;
 }
 
-.entrydate span{
-
-}
-
-.entrydate li{
+.entrydate ul{
 	display: none;
 }
 
-}
+@media only screen  and (max-width : 640px) {
+	.entrycontent{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
 }
