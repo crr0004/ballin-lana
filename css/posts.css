@@ -39,16 +39,17 @@
 
 .entrynav{
 	width: 12.733%;
-	color: #F2F2F2;
+	color: #F2f2f2;
 	float: left;
-	background-color: #A61700;
-	min-height: 100em;
+	background-color: #2F9AB8;
+	height: 100%
 }
 
 .entrynav span{
 	margin-top: 10px;
 	display: block;
 	font-size: 24px;
+	padding-left: 7px;
 }
 
 .entrynav span:hover{
@@ -68,7 +69,7 @@
 }
 
 .entrydateactive li{
-	padding-left: 7px;
+	padding-left: 14px;
 	font-size: 24px;
 }
 
@@ -88,7 +89,7 @@
 	display: none;
 }
 
-@media only screen  and (max-width : 640px) {
+@media only screen  and (max-width : 1000px) {
 	.entrycontent{
 		margin-left: 10px;
 		margin-right: 10px;

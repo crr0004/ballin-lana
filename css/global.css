@@ -1,10 +1,11 @@
-body {
+html, body {
   background-color: #F2F2F2;
+  height: 100%;
 }
 
 .navbar{
-    background-color: #04819E;
-    position: static;
+    background-color: #00566F;
+    margin-bottom: 10px;
 }
 
 .navbar div a{
@@ -49,7 +50,7 @@ body {
     background-color: #61B7CF;
   }
 
-@media only screen  and (max-width : 640px) {
+@media only screen  and (max-width : 1000px) {
   body{
     margin: 0 0px 0 0px;
   }
