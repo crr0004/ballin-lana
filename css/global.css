@@ -5,7 +5,7 @@ html, body {
 
 .navbar{
     background-color: #00566F;
-    margin-bottom: 10px;
+    font-family: "Play";
 }
 
 .navbar div a{

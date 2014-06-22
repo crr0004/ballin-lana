@@ -2,27 +2,30 @@
 	width: 87.2667%;
 	float:left;
 	margin-top: 10px;
+	font-family: "Open Sans";
 }
 
 .entrycontent {
-	margin-left: 13.33%;
-	margin-right: 13.33%;
+	margin: 28px;
 }
 
 .entry h3{
 	font-size: 65px;
+	line-height: 70px;
 	text-align: center;
 }
 
 .entry h4{
 	font-size: 40px;
+	line-height: 45px;
 }
 
 .entry p{
 	margin-bottom: 10px;
 	margin-top: 10px;
 	width: auto;
-	font-size: 20px;
+	font-size: 16px;
+	line-height: 24px;
 }
 
 .intropara{
@@ -33,23 +36,19 @@
 	font-size: 22px !important;
 }
 
-.firstpara{
-
-}
-
 .entrynav{
 	width: 12.733%;
 	color: #F2f2f2;
 	float: left;
 	background-color: #2F9AB8;
-	height: 100%
+	height: 100%;
+	font-family: "Open Sans";
 }
 
 .entrynav span{
 	margin-top: 10px;
 	display: block;
-	font-size: 24px;
-	padding-left: 7px;
+	font-size: 18px;
 }
 
 .entrynav span:hover{
@@ -59,7 +58,6 @@
 .entrydateactive{
 	list-style-type: none;
 	margin-bottom: 10px;
-	font-size: 22px;
 	transition: opacity 1s ease-out;
 	opacity: 1;
 }
@@ -69,8 +67,8 @@
 }
 
 .entrydateactive li{
-	padding-left: 14px;
-	font-size: 24px;
+	padding-left: 7px;
+	font-size: 14px;
 }
 
 .entrydateactive li:hover{
@@ -79,7 +77,6 @@
 
 .entrydate{
 	margin-bottom: 10px;
-
 	max-height: 0;
 	visibility: hidden;
 	opacity: 0;
