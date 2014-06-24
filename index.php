@@ -25,13 +25,35 @@
 
 <!-- Blog entry -->
 <div class="blogcontent">
-	<div class="blogcontent__preview">
-		<div class="image__block">
-			<div class="image__block-padding">
+	<div class="blogcontent_preview">
+		<div class="image_block">
+			<div class="image_block-padding">
 				<img src="http://placekitten.com/g/200/300">
 			</div>
 		</div>
-		<div class="blogcontent__preview-text">
+		<div class="blogcontent_preview-text">
+			<h3>Blog 1</h3>
+			<p>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</p>
+		</div>
+	</div>
+	<div class="blogcontent_preview">
+		<div class="image_block">
+			<div class="image_block-padding">
+				<img src="http://placekitten.com/g/200/300">
+			</div>
+		</div>
+		<div class="blogcontent_preview-text">
+			<h3>Blog 1</h3>
+			<p>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</p>
+		</div>
+	</div>
+	<div class="blogcontent_preview">
+		<div class="image_block">
+			<div class="image_block-padding">
+				<img src="http://placekitten.com/g/200/300">
+			</div>
+		</div>
+		<div class="blogcontent_preview-text">
 			<h3>Blog 1</h3>
 			<p>This is a casual description of this entry. What happens if I put lots of text in here when describing things?</p>
 		</div>
