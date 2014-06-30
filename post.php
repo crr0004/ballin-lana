@@ -24,7 +24,7 @@
 <!-- End Nav bar -->
 <!-- Blog entry nav -->
 
-
+<div class="content">
 <ul class="entrynav">
 	<li>
 		<span>6/6/2014</span>
@@ -71,6 +71,7 @@
 	</div>
 </div>
 <!-- Blog Entry end -->
+</div>
 
 <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 <!-- Blog navbar script -->

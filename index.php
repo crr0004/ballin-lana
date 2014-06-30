@@ -22,7 +22,7 @@
 	</div>
 </div>
 <!-- End Nav bar -->
-
+<div class="content">
 <!-- Blog entry -->
 <div class="blogcontent">
 	<div class="blogcontent_preview">
@@ -60,6 +60,16 @@
 	</div>
 </div>
 <!-- End Blog Entry -->
+</div>
+
+<!-- Footer start -->
+<div class="footer">
+<div>
+	<h3>Blog 1</h3>
+</div>
+
+</div>
+<!-- Footer end -->
 
 </body>
 </html>

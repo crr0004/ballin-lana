@@ -1,0 +1,130 @@
+@-webkit-keyframes test{
+	  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-2000px);
+    transform: translateX(-2000px);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: translateX(30px);
+    transform: translateX(30px);
+  }
+
+  80% {
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+.ball{
+	background-color: blue;
+	border: 25px blue solid;
+	margin-left: 50%;
+	border-radius: 10px;
+	width: 21.25px;
+	-webkit-animation: test 2.5s ease-out;
+}
+
+.downTriangle {
+   width: 80px;
+   height: 80px;
+   background: purple;
+   margin: 30px 0 0 0px;
+   /* Rotate */
+   -webkit-transform: rotate(-45deg);
+   /* Rotate Origin */
+   /*-webkit-transform-origin: 50% 50%;*/
+   margin-left: 50%;
+}
+
+@-webkit-keyframes blink{
+	90% {
+		-webkit-transform: none;
+	}
+
+	95%{
+		-webkit-transform: rotateX(90deg);
+	}
+}
+
+@-webkit-keyframes roll{
+	33% {
+		-webkit-transform-origin: center;
+	    -webkit-transform: translateX(90px) rotate(180deg) ;
+  	}
+
+  	66% {
+	  	-webkit-transform-origin: center;
+	    -webkit-transform: translateX(-90px) rotate(-180deg);
+  	}
+
+}
+
+@-webkit-keyframes smile{
+	33% {
+		height: 23.4px;
+  	}
+
+  	66% {
+	  	height: 23.4px;
+  	}
+
+}
+
+.cssbuddy{
+	margin-left: 48%;
+	margin-top: 10%;
+	position: absolute;
+}
+
+.body{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: yellow;
+	position: absolute;
+	box-shadow: inset -5px -7px rgba(0, 0, 0, 0.06);
+	-webkit-animation: roll 5s ease-in-out infinite;
+
+}
+
+.eye{
+	-webkit-animation: blink 4s ease-in-out infinite;
+}
+
+.eye:first-child{
+	width: 5px;
+	height: 5px;
+	border-radius: 2.5px;
+	background: black;
+	position: absolute;
+	left:30.33%;
+	top:25%;
+}
+
+.eye:last-child{
+	width: 5px;
+	height: 5px;
+	border-radius: 2.5px;
+	background: black;
+	position: absolute;
+	left:60.66%;
+	top:25%;
+}
+
+.mouth{
+	width: 50px;
+	height: 2px;
+	border-radius: 0 0 120px 120px;
+	position: absolute;
+	background: black;
+	left: 23.1%;
+	top: 55%;
+	-webkit-animation: smile 5s infinite;
+}
