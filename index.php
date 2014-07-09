@@ -64,8 +64,18 @@
 
 <!-- Footer start -->
 <div class="footer">
-<div>
-	<h3>Blog 1</h3>
+<div class="footerSection1 footerSeperator">
+	<h3>Chris Rhodes</h3>
+	<p>One of those people who call weird in highschool. You know, the one always on the computer doing something werid but awesome. I'm always up to something different and here you can check it out.</p>
+</div>
+<div class="footerSection2">
+	<h3>Where you can find me</h3>
+	<p>Email me @ <a target="_blank" href="mailto:crr0004@gmail.com">crr0004@gmail.com</a></p>
+	<p>Send me a tweet <a target="_blank" href="https://twitter.com/crr0004">@crr0004</a></p>
+</div>
+<div class="footerSection3">
+	<img src="img/twitterLogo.png">
+	<img src="img/linkedInLogo.png">
 </div>
 
 </div>
