@@ -1,0 +1,36 @@
+theme = "greyshade"
+BaseURL = "http://toomanythoughts.dev/"
+languageCode = "en-us"
+title = "Too Many Thoughts"
+
+[author]
+	name = "Chris"
+	# email will use for gravatar
+	email = "crr0004@gmail.com"
+
+[taxonomies]
+	category = "categories"
+
+[params]
+	# site description, will show under navigation
+	description = "A blog where I shall be posting about all manner of topics, focused on programming and technology; politics might find their way in here"
+
+	# RSS / Email (optional) subscription links (change if using something like Feedburner)
+	subscribe_rss = "/index.xml"
+	subscribe_email = ""
+
+	# social links
+	twitter_user = "crr0004"
+	github_user = "crr0004"
+	aboutme_user = "crr0004"
+
+	# share links
+	twitter_tweet_button = true
+	addthis_profile_id = ""
+
+	# Disqus Comments
+	disqus_short_name = ""
+	disqus_show_comment_count = false
+
+	# google analytics
+	google_analytics_tracking_id = ""
